@@ -1,4 +1,4 @@
-name: /Users/akshay/developer/blackhat-python/bhat
+name: bhat
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
